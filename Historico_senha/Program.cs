@@ -54,7 +54,7 @@ namespace Historico_senha
                     Console.WriteLine("Escolha uma das opções acima: ");
                     opc = int.Parse(Console.ReadLine());
                 }
-                Console.WriteLine("Pressione s para sair");
+                Console.WriteLine("Pressione s para sair / n para continuar");
                     tecla = char.Parse(Console.ReadLine());
             } while (tecla != 's');
 
