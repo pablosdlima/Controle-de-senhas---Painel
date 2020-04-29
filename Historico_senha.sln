@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Historico_senha", "Historico_senha\Historico_senha.csproj", "{D99026AD-6D01-4B6F-9819-18E11D0CCB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99026AD-6D01-4B6F-9819-18E11D0CCB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99026AD-6D01-4B6F-9819-18E11D0CCB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99026AD-6D01-4B6F-9819-18E11D0CCB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99026AD-6D01-4B6F-9819-18E11D0CCB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05097D3E-73E6-4DF0-86D5-035840867FE4}
+	EndGlobalSection
+EndGlobal

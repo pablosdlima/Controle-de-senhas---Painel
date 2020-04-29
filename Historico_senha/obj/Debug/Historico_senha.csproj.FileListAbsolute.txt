@@ -1,0 +1,7 @@
+C:\Users\Pablo\Desktop\Historico_senha\Historico_senha\bin\Debug\Historico_senha.exe.config
+C:\Users\Pablo\Desktop\Historico_senha\Historico_senha\bin\Debug\Historico_senha.exe
+C:\Users\Pablo\Desktop\Historico_senha\Historico_senha\bin\Debug\Historico_senha.pdb
+C:\Users\Pablo\Desktop\Historico_senha\Historico_senha\obj\Debug\Historico_senha.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Historico_senha\Historico_senha\obj\Debug\Historico_senha.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Historico_senha\Historico_senha\obj\Debug\Historico_senha.exe
+C:\Users\Pablo\Desktop\Historico_senha\Historico_senha\obj\Debug\Historico_senha.pdb
